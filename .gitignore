@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+
+# Compiled programs
+*.exe
+*.pdb
+
+# Editor and OS files
+.vs/
+*.user
+Thumbs.db
+desktop.ini
